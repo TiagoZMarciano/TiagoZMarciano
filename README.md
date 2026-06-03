@@ -51,7 +51,3 @@ HR Analytics, statistical modeling, Power BI, labor economics, data storytelling
 - Email: **tiago007zmarciano@gmail.com**
 - LinkedIn: [Tiago Marciano](https://www.linkedin.com/in/tiago-zacaroni-marciano-838542220/)
 
----
-
-⚡ Fun fact: I really enjoy cooking — especially when experimenting with data-inspired recipes 🍝📊
-
